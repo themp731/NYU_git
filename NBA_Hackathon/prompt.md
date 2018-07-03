@@ -1,7 +1,0 @@
-#1) Basketball Analytics: 
-####Use the attached data to calculate plus/minus for each player in each game. Plus/Minus is defined as the team’s score differential while the player is on the court. Note: When a player is substituted before or during a set of free throws but was on the court at the time of the foul that caused the free throw, he is considered to be on the court for the free throws for the purposes of plus/minus. A player substituted in before a free throw but after a foul is not considered to be on the court until after the conclusion of the free throws. Please submit a spreadsheet titled “Your_Team_Name_Q1_BBALL” substituting in the name of your team for "Your_Team_Name." Please save as a .csv. The final product should have 3 columns. Column 1: Game_ID, Column 2: Player_ID, Column 3 Player_Plus/Minus.*
-
-
-
-#2) 
-####Business Analytics: We have provided a sample of 460 games (230 from the 2016-17 season and 230 from the 2017-18 season) for which your task is to predict total international viewers. To assist with your model, we have provided viewership numbers from 1,000 games by country in each of the two seasons, plus stats on team and player performance and status. Using these inputs, we would like you to predict the total number of international viewers for each of the 460 games in the test set.*
