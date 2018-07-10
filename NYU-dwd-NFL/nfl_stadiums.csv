@@ -1,0 +1,33 @@
+team,city,conference,latitude,longitude,name,capacity
+Bears,CHI,NFC,41.862306,-87.616672,Soldier Field,61500
+Bengals,CIN,AFC,39.095442,-84.516039,Paul Brown Stadium,65515
+Bills,BUF,AFC,42.773739,-78.786978,New Era Field,71608
+Broncos,DEN,AFC,39.743936,-105.020097,Sports Authority Field at Mile High,76125
+Browns,CLE,AFC,41.506022,-81.699564,FirstEnergy Stadium,67895
+Buccaneers,TB,NFC,27.975967,-82.50335,Raymond James Stadium,65890
+Cardinals,ARI,NFC,33.5277,-112.262608,University of Phoenix Stadium,63400
+Chargers,LAC,AFC,32.783117,-117.119525,StubHub Center,27000
+Chiefs,KC,AFC,39.048914,-94.484039,Arrowhead Stadium,76416
+Colts,IND,AFC,39.760056,-86.163806,Lucas Oil Stadium,67000
+Cowboys,DAL,NFC,32.747778,-97.092778,AT&T Stadium,100000
+Dolphins,MIA,AFC,25.957919,-80.238842,Hard Rock Stadium,65326
+Eagles,PHI,NFC,39.900775,-75.167453,Lincoln Financial Field,69596
+Falcons,ATL,NFC,33.757614,-84.400972,Mercedes-Benz Stadium,71000
+Forty-Niners,SF,NFC,37.713486,-122.386256,Levi's Stadium,68500
+Giants,NYG,NFC,40.812194,-74.076983,MetLife Stadium,82500
+Jaguars,JAX,AFC,30.323925,-81.637356,TIAA Bank Field,69132
+Jets,NYJ,AFC,40.812194,-74.076983,MetLife Stadium,82500
+Lions,DET,NFC,42.340156,-83.045808,Ford Field,65000
+Packers,GB,NFC,44.501306,-88.062167,Lambeau Field,81435
+Panthers,CAR,NFC,35.225808,-80.852861,Bank of America Stadium,75419
+Patriots,NE,AFC,42.090925,-71.26435,Gillete Stadium,66829
+Raiders,OAK,AFC,37.751411,-122.200889,Oakland-Alameda County Coliseum,53286
+Rams,LA,NFC,34.0141,-118.2879,Los Angeles Memorial Coliseum,77500
+Ravens,BAL,AFC,39.277969,-76.622767,M&T Bank Stadium,71008
+Redskins,WAS,NFC,38.907697,-76.864517,FedExField,82000
+Saints,NO,NFC,29.950931,-90.081364,Mercedes-Benz Superdome,73208
+Seahawks,SEA,NFC,47.595153,-122.331625,CenturyLink Field,68000
+Steelers,PIT,AFC,40.446786,-80.015761,Heinz Field,68400
+Texans,HOU,AFC,29.684781,-95.410956,NRG Stadium,72220
+Titans,TEN,AFC,36.166461,-86.771289,Nissan Stadium,69143
+Vikings,MIN,NFC,44.973881,-93.258094,U.S. Bank Stadium,66655
